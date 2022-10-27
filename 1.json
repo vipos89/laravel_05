@@ -1,0 +1,15 @@
+{
+  "uuid": "bfea3cd8-6f06-4157-b79e-aaa2d1ea5f11",
+  "displayName": "App\\Jobs\\FirstJob",
+  "job": "Illuminate\\Queue\\CallQueuedHandler@call",
+  "maxTries": null,
+  "maxExceptions": null,
+  "failOnTimeout": false,
+  "backoff": null,
+  "timeout": null,
+  "retryUntil": null,
+  "data": {
+    "commandName": "App\\Jobs\\FirstJob",
+    "command": "O:17:\"App\\Jobs\\FirstJob\":1:{s:12:\"emailMessage\";s:18:\"ololo sdfsdfsdfdsf\";}"
+  }
+}
